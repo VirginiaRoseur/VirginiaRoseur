@@ -1,7 +1,7 @@
 ### Olá, sou a Virgínia 🌹🌈
 
 
-- 📖Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. <img align="right" src="https://media.tenor.com/oNcLtpowoc4AAAAC/lentes-anime.gif" height="110px" width="110px"> 
+- 📖Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. <img align="right" src="https://i.pinimg.com/originals/fd/ee/5d/fdee5d1ce91143d9510bb8a19488b3ff.gif" height="110px" width="110px"> 
 - 📊Atualmente estou aprendendo sobre data & analytics.
 - 👩🏼‍💻Sou estagiária na Compass.UOL  
 - 📫Como chegar até mim: 
@@ -19,4 +19,4 @@
  
  ##
 
- ![Snake animation](https://github.com/VirginiaRoseur/VirginiaRoseur/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/VirginiaRoseur/VirginiaRoseur/blob/output/github-contribution-grid-snake.svg)
