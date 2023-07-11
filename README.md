@@ -1,7 +1,7 @@
 ### Olá, sou a Virgínia 🌹🌈
 
 
-- 📖Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. <img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1098841105757380748/GIFPAL-20230421022114.gif" height="110px" width="110px"> 
+- 📖Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. <img align="right" src="https://media.tenor.com/oNcLtpowoc4AAAAC/lentes-anime.gif" height="110px" width="110px"> 
 - 📊Atualmente estou aprendendo sobre data & analytics.
 - 👩🏼‍💻Sou estagiária na Compass.UOL  
 - 📫Como chegar até mim: 
